@@ -1,8 +1,11 @@
 //require express
+
 const express=require("express");
 
+//require cors
 const cors=require("cors");
 
+//require dotenv
 const dotenv=require("dotenv");
 
 //require routes from routes folder
